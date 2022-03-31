@@ -48,16 +48,16 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+[I have not used any outside resources to assist me in this project]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+[]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[If I had more hours to do this project, I would implement React to introduce composabilty to this project. This would make it easier to add more colored squares componenets if we were to,say,introduce difficulty modes. The harder the difficulty mode, the more colored squares. React would allow us to use a feature called "state" to conditionally render the amount of colored square based on difficulty. I would also make the patterns random instead of having a preset array of patterns for the computer. This would make this game more challenging. Last but not least, I would add a competitive aspect for this game by creating a scoring system and recording the scores everytime a game is played. This would possibly need backend, which im not too proficient in, but ,as always, I am willing to learn. ]
 
 
 
@@ -68,7 +68,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [Rezaur Khan]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
