@@ -40,7 +40,10 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![](./gameplay1.gif)
+
 ![](./gameplay.gif)
+
+![](./gameplay5.gif)
 
 
 ## Reflection Questions
