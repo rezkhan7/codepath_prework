@@ -4,7 +4,7 @@
 
 Submitted by: **Rezaur Khan**
 
-Time spent: **2** hours spent in total
+Time spent: **5** hours spent in total
 
 Link to project: (https://glitch.com/edit/#!/motley-humane-string)
 
@@ -53,7 +53,7 @@ I have not used any outside resources to assist me in this project
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 
-A challenge I encountered in creating this submission would be 
+A challenge I encountered in creating this submission would be dealing with sound. Prior to this project, I had no experience integrating sound to a web application. I found it a bit difficult to understand what the code snippet provided for generating sound did.  Eventually, I started to see parallels to things I already knew; for example, the freqMap was essentially like a dictionary in python. It had keys which represented each of the 4 buttons and assigned them values for frequency when each of the sound functions were called. I also did not understand some of the sound synthesizer functions such as createOscillator() and setTargetAtTime(). I understood that these were built in functions, but I was curious to know what these functions actually did so I looked them up in the JavaScript documentation. After viewing the documentation, I made more connections to things I already knew such as objects and instances of objects. By making these connections, I was able to better understand something I was unfamiliar with.  This submission helped me realize that everything in Computer Science is has the similar fundamentals and you should be able to  draw connections to other aspects to help understand these fundamentals better. 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 
