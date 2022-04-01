@@ -67,7 +67,7 @@ If I had more hours to do this project, I would implement React to introduce com
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.loom.com/share/ba848cd6fbcd4487a19bc8d6dc1dc495)
 
 
 ## License
