@@ -46,29 +46,6 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 ![](./gameplay5.gif)
 
 
-## Reflection Questions
-1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-
-I have not used any outside resources to assist me in this project
-
-2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-
-A challenge I encountered in creating this submission would be dealing with sound. Prior to this project, I had no experience integrating sound to a web application. I found it a bit difficult to understand what the code snippet provided for generating sound did.  Eventually, I started to see parallels to things I already knew; for example, the freqMap was essentially like a dictionary in python. It had keys which represented each of the 4 buttons and assigned them values for frequency when each of the sound functions were called. I also did not understand some of the sound synthesizer functions such as createOscillator() and setTargetAtTime(). I understood that these were built in functions, but I was curious to know what these functions actually did so I looked them up in the JavaScript documentation. After viewing the documentation, I made more connections to things I already knew such as objects and instances of objects. By making these connections, I was able to better understand something I was unfamiliar with.  This submission helped me realize that everything in Computer Science is has the similar fundamentals and you should be able to  draw connections to other aspects to help understand these fundamentals better. 
-
-3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-
-Much of my experience in web development comes with front-end. A question I have after completeingn this submission is how can I implement backend to add features to this game. My guess would be we could do things like make this game unique to each person like creating a log in system. Or maybe backend could be used to create a scoreboard system that displays the highest scorers. Completeing this submission made me curious on how exactly do front-end and back-end integrate with each other? As for the information needed to create a scoreboard, where exactly would the information be stored?
-
-4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-
-If I had more hours to do this project, I would implement React to introduce composabilty to this project. This would make it easier to add more colored squares componenets if we were to,say,introduce difficulty modes. The harder the difficulty mode, the more colored squares. React would allow us to use a feature called "state" to conditionally render the amount of colored square based on difficulty. I would also make the patterns random instead of having a preset array of patterns for the computer. This would make this game more challenging. Last but not least, I would add a competitive aspect for this game by creating a scoring system and recording the scores everytime a game is played. This would possibly need backend, which im not too proficient in, but as always, I am willing to learn. 
-
-
-
-## Interview Recording URL Link
-
-[My 5-minute Interview Recording](https://www.loom.com/share/ba848cd6fbcd4487a19bc8d6dc1dc495)
-
 
 ## License
 
